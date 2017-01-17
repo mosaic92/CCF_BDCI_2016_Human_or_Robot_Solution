@@ -8,7 +8,7 @@
 
   Data-Guerrilla
 
-  队员：3sigma，DeanNG
+  队员：[3sigma](https://github.com/mosaic92)，DeanNG
 
 * 参赛成绩 
 
