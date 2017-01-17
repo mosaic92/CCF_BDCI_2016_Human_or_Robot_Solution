@@ -16,4 +16,7 @@
 * path目录下的test文件夹为测试集特征工程代码的结果输出路径
 * 训练所得模型和预测结果均保存在path目录下
 
+#### 其他注意事项
+
+LightGBM为微软2016年10月11日开源的机器学习算法，其在2016年12月02日提供了python接口beta版本（版本号为0.1），近期一直在继续更新，变动较大，若调用该python库的函数报错，请参考https://github.com/Microsoft/LightGBM/blob/master/docs/Python-API.md，进行相应的修改。
 ​
