@@ -20,4 +20,4 @@
 
 * 解决方案
   
-  待补充...
+  [点击链接](https://github.com/mosaic92/CCF_BDCI_2016_Human_or_Robot_Solution/blob/master/Solution_doc.pdf)
