@@ -4,8 +4,8 @@
 
   [点击链接](http://www.datafountain.cn/data/science/player/competition/detail/description/236)
 
-* 参数队伍
-
+* 队伍介绍
+  
   Data-Guerrilla
 
   队员：[3sigma](https://github.com/mosaic92)，DeanNG
