@@ -10,7 +10,7 @@
 #### 代码目录
 
 * 代码文件中的    
-  #path = '…/AdMaster_competition_dataset/admaster/'#   
+  *path = '…/AdMaster_competition_dataset/admaster/'*   
   为赛题提供数据文件所在目录
 * path目录下的train3文件夹为训练集特征工程代码的结果输出路径
 * path目录下的test文件夹为测试集特征工程代码的结果输出路径
