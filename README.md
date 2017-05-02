@@ -2,7 +2,7 @@
 ### 2016CCF大数据与计算智能大赛 Human_or_Robot? 
 * 赛题介绍
 
-  [点击链接](http://www.datafountain.cn/data/science/player/competition/detail/description/236)
+  [点击链接](http://www.datafountain.cn/#/competitions/236/intro)
 
 * 队伍介绍
   
